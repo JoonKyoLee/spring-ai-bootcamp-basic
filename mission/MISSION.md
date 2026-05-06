@@ -77,7 +77,7 @@ mission/wall-report.md를 작성하세요:
 
 ## 시작하는 방법
 
-`src/main/java/com/jaeyeonling/stage1/`를 열어보세요.
+`src/main/java/com/cholog/bootcamp/`를 열어보세요.
 
 나머지는 직접 만들어야 합니다.
 
