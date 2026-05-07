@@ -30,7 +30,7 @@ IDE에서 실행할 때는 환경변수를 별도로 설정하세요 (Run Config
 
 ### 3. 설계 & 구현
 
-`src/main/java/com/jaeyeonling/stage1/`에 코드가 있습니다.
+`src/main/java/com/cholog/bootcamp/`에 코드가 있습니다.
 
 무엇이 필요한지, 어떤 순서로 만들지는 직접 결정하세요.
 

@@ -25,7 +25,7 @@ Spring AI로 FAQ 챗봇을 직접 만드는 실습입니다.
 ```bash
 # 프로젝트 루트에서
 cp .env.example .env   # OpenAI API 키 입력
-./gradlew :stage1:bootRun
+./gradlew bootRun
 ```
 
 서버가 `http://localhost:8080`에서 시작됩니다.
@@ -56,7 +56,7 @@ python -m venv .venv
 ## 프로젝트 구조
 
 ```
-stage1/
+spring-ai-bootcamp-basic/
 ├── mission/
 │   ├── MISSION.md              # 미션 설명 (여기서 시작)
 │   └── wall-report.md          # 벽 리포트 (마지막에 작성)
