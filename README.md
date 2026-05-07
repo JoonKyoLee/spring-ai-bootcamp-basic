@@ -68,7 +68,7 @@ stage1/
 │   ├── layer3_chatlogs/        # 고객 상담 로그
 │   └── test_questions.json     # 평가용 질문 100개
 ├── src/
-│   └── main/java/com/jaeyeonling/stage1/
+│   └── main/java/com/cholog/bootcamp/
 │       └── Application.java    # 여기서부터 만드세요
 ├── SYLLABUS.md                 # 커리큘럼 소개 ← 과정 전체 그림
 ├── GUIDE.md                    # 진행 가이드 ← 미션 중 참고
